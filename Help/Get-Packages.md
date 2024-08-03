@@ -8,7 +8,7 @@ schema: 2.0.0
 # Get-Packages
 
 ## SYNOPSIS
-Provides a list of installed packages for Debian-based systems MD File
+Provides a list of installed packages for Debian-based systems
 
 ## SYNTAX
 
